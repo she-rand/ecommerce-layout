@@ -68,7 +68,7 @@ main{
     width: 300px;
 }
 .photo-card-2{
-    background-image: url(../imgs/montaña.jpg);
+    background-image: url(../imgs/mountain2.jpg);
     background-position: center;
     background-size: cover;
     height: 250px;
@@ -82,7 +82,7 @@ main{
     width: 300px;
 }
 .photo-card-4{
-    background-image: url(../imgs/montaña2.jpg);
+    background-image: url(../imgs/mountain.jpg);
     background-position: center;
     background-size: cover;
     height: 250px;
